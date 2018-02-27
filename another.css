@@ -1,0 +1,19 @@
+.navbar-dark .navbar-brand{
+    color: rgba(255,255,255,.5);
+}
+.text-gray{
+    color: lightgray;
+}
+.boxas{
+    padding: 20px;
+    border: 1px solid lightgrey;
+    margin-top: 15px;
+    border-radius:5px;
+    background: #f8f9fa;
+}
+.height{
+    line-height: 1.8;
+}
+.pd-10{
+    padding-left: 10px;
+}
